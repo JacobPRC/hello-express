@@ -1,0 +1,14 @@
+{
+  "name": "frameworks",
+  "version": "1.0.0",
+  "description": "Working with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
